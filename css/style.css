@@ -822,6 +822,10 @@ footer.main .social-counter a {
 	-webkit-transition: background .9s ease;
 }
 
+footer.main .social-counter a:last-child {
+	margin-right: 0;
+}
+
 footer.main .social-counter a img {
 	position: absolute;
 }
@@ -880,7 +884,7 @@ footer.main .left-block a:hover {
 }
 
 footer.main .right-block {
-	width: 400px;
+	width: 272px;
 }
 
 footer.main .right-block header {
